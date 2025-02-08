@@ -1,2 +1,3 @@
-# Revenue-Cycle-Management
-Revenue Cycle Management (RCM) &amp; Accounts Receivable (AR) Analysis
+# Revenue Cycle Management (RCM) & Accounts Receivable (AR) Analysis
+
+!.[.].(introduction.jpg).
