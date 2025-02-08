@@ -115,7 +115,7 @@ click [here](https://app.powerbi.com/view?r=eyJrIjoiNDMxZGVkZjMtOTY0OS00YjUyLTk3
 -	Implement automated AR tracking dashboards for real-time visibility.
 
 By following this structured approach, the hospital can significantly improve cash flow, reduce bad debt, enhance payer relations, and optimize financial sustainability.
-Let’s collaborate to drive better RCM efficiency and save our hospital from collapsing! 🚀
+Let’s collaborate to drive better RCM efficiency and save our hospital from collapsing!
 
 
 
