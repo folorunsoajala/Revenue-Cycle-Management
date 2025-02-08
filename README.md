@@ -9,11 +9,11 @@ The healthcare industry faces a growing challenge in managing Revenue Cycle Mana
 ## Problem Statement
 
 The hospital’s financial team observed a declining Net Collection Rate (NCR) and a significant increase in aging AR, particularly claims older than 90 days. The primary concerns included:
-•	High claim rejections and denials, leading to lost revenue.
-•	Excessive outstanding patient balances, particularly in self-pay accounts.
-•	Growing bad debt, with over 25% of billed revenue going uncollected.
-•	Delayed collections from key payers such as Medicare and Aetna.
-•	Poor visibility into departmental billing performance, impacting financial planning.
+-	High claim rejections and denials, leading to lost revenue.
+-	Excessive outstanding patient balances, particularly in self-pay accounts.
+-	Growing bad debt, with over 25% of billed revenue going uncollected.
+-	Delayed collections from key payers such as Medicare and Aetna.
+-	Poor visibility into departmental billing performance, impacting financial planning.
 
 ![.](problem.jpg)
 
