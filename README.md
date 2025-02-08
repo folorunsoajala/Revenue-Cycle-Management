@@ -34,4 +34,13 @@ The analysis is based on structured datasets extracted from hospital financial s
 - Encounter Records (inpatient, outpatient, telemedicine, emergency visits)
 - Claims Data (approved, denied, rejected claims, payers)
 
-![.](adf source.PNG)
+![.](adfsource.PNG)
+
+
+## Data Transformation
+To ensure a clean dataset for analysis, the following data processing steps were applied using Azure Data Factory (ADF) for ingestion and Azure SQL Database for transformation:
+-	Data Cleaning: Removed duplicate records, fixed inconsistencies in claim statuses.
+-	Standardization: Unified payer names, claim categories, and encounter types.
+-	Time-Based Metrics: Calculated Charge Lag, Days in AR, and Aging Buckets (0-30, 31-60, 61-90, 90+ days).
+-	KPI Calculation: Formulated Net Collection Rate (NCR), Bad Debt Rate, Claim Denial Rate, and First Pass Resolution Rate (FPRR).
+
